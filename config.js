@@ -49,21 +49,21 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-V2'
+global.botname = 'ꀗꂑꀗꂑ'
 global.premium = 'true'
 global.packname = 'EX-BOTS_TEAM' 
 global.author = '@EXCEL' 
 global.menuvid = 'https://i.imgur.com/p7sdeTT.mp4'
-global.igfg = '▢✓ Follow My channel_ https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
-global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
-global.fgyt = 'https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m'
-global.fgpyp = 'https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m'
-global.fglog = 'STAR.jpg' 
-global.thumb = fs.readFileSync('./STAR.jpg')
+global.igfg = ' 
+global.dygp = '
+global.fgsc = '
+global.fgyt =
+global.fgpyp = 'OIP
+global.fglog = 'OIP.jpg' 
+global.thumb = fs.readFileSync('./OIP.jpg')
 
 
-global.wait = '*🕣 _STAR IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _ꀗꂑꀗꂑ IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
